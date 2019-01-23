@@ -10,6 +10,7 @@ This repository contains the default model for the above paper which presents an
 
 <br/>
 ## Dependencies
+
 * [Python 2.7+](https://www.continuum.io/downloads)  
 * [Keras 2.0.8+](http://pytorch.org/)  
 * [TensorFlow 1.3+](https://www.tensorflow.org/) (optional for tensorboard)  
@@ -18,6 +19,7 @@ This repository contains the default model for the above paper which presents an
 
 
 <br/>
+
 ## Project Structure
 The code requires a directory with the following structure:
 
