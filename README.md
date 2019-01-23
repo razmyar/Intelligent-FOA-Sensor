@@ -25,7 +25,7 @@ This repository contains the default model for the above paper which presents an
 The code requires a directory with the following structure:  
 
 
-	Root  
+	  Root  
 	    │  
 	    ├── CAT  (Image dataset)  
 	    │   │
@@ -57,14 +57,14 @@ The code requires a directory with the following structure:
     
     
     
-<br/>
+
 ## Dataset
  Full dataset and pre-processing details are not available due to commercial sensitivity and pending pattent. Here is an example of raw speckle  and its corresponding pattern resulted from an image processing pipeline.
  
  ![ ](./images/sp.jpg  "(left) Raw pattern (Right) Extracted pattern")
 
 
-<br/>
+
 ## Convolutional Network Architecture
  ![ ](./images/CNNArc.png  "Architecture of the CNN model according to this work.")
  
@@ -77,7 +77,7 @@ Run the model by:
     cd scripts
     python demo.py
     
- <br/>
+
 ### Citation
 
 If you find the paper, code, model, or data usefu, please cite our paper:
