@@ -9,6 +9,7 @@ This repository contains the default model for the above paper which presents an
 ![ ](./images/logo.jpg  "A CNN model classifies images of speckle pattern into distinct pre-known classes of acceleration vectors.")
 
 <br/>
+
 ## Dependencies
 
 * [Python 2.7+](https://www.continuum.io/downloads)  
@@ -21,11 +22,11 @@ This repository contains the default model for the above paper which presents an
 <br/>
 
 ## Project Structure
-The code requires a directory with the following structure:
+The code requires a directory with the following structure:  
 
-Root
-    │
-    ├── CAT  (Image dataset)
+Root  
+    │  
+    ├── CAT  (Image dataset)  
     │   │
     │   ├─ Accelerometer Class 1 
     │   │   ├── xxx.jpg (name doesn't matter)
