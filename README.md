@@ -8,7 +8,6 @@ This repository contains the default model for the above paper which presents an
 
 ![ ](./images/logo.jpg  "A CNN model classifies images of speckle pattern into distinct pre-known classes of acceleration vectors.")
 
-<br/>
 
 ## Dependencies
 
@@ -17,9 +16,6 @@ This repository contains the default model for the above paper which presents an
 * [TensorFlow 1.3+](https://www.tensorflow.org/) (optional for tensorboard)  
 * [Pandas](https://pandas.pydata.org/)  
 
-
-
-<br/>
 
 ## Project Structure
 The code requires a directory with the following structure:  
