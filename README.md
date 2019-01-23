@@ -69,7 +69,6 @@ The code requires a directory with the following structure:
  ![ ](./images/CNNArc.png  "Architecture of the CNN model according to this work.")
  
  
- <br/>
 ## Usage
 Run the model by:
 
