@@ -24,35 +24,38 @@ This repository contains the default model for the above paper which presents an
 ## Project Structure
 The code requires a directory with the following structure:  
 
-Root  
-    │  
-    ├── CAT  (Image dataset)  
-    │   │
-    │   ├─ Accelerometer Class 1 
-    │   │   ├── xxx.jpg (name doesn't matter)
-    │   │   ├── yyy.jpg (name doesn't matter)
-    │   │   └── ...
-    │   │
-    │   ├── Accelerometer Class 2
-    │   │   ├── xxx.jpg (name doesn't matter)
-    │   │   ├── yyy.jpg (name doesn't matter)
-    │   │   └── ...
-    │   │
-    │   ├── Accelerometer Class 3
-    │   │   ├── xxx.jpg (name doesn't matter)
-    │   │   ├── yyy.jpg (name doesn't matter)
-    │   │   └── ...
-    │   │
-    │   ├── ....
-    │   │   ├── xxx.jpg (name doesn't matter)
-    │   │   ├── yyy.jpg (name doesn't matter)
-    │   │   └── ...
-    │   │
-    │   ├──model (saved models) 
-    │   │   └── xxxxx.hdf5
-    │   │
-    │   ├──log (saved log for Tensorboard) 
-    │   │   └── events.out.tfevents.xxxxxxx (name doesn't matter)
+
+	Root  
+	    │  
+	    ├── CAT  (Image dataset)  
+	    │   │
+	    │   ├─ Accelerometer Class 1 
+	    │   │   ├── xxx.jpg (name doesn't matter)
+	    │   │   ├── yyy.jpg (name doesn't matter)
+	    │   │   └── ...
+	    │   │
+	    │   ├── Accelerometer Class 2
+	    │   │   ├── xxx.jpg (name doesn't matter)
+	    │   │   ├── yyy.jpg (name doesn't matter)
+	    │   │   └── ...
+	    │   │
+	    │   ├── Accelerometer Class 3
+	    │   │   ├── xxx.jpg (name doesn't matter)
+	    │   │   ├── yyy.jpg (name doesn't matter)
+	    │   │   └── ...
+	    │   │
+	    │   ├── ....
+	    │   │   ├── xxx.jpg (name doesn't matter)
+	    │   │   ├── yyy.jpg (name doesn't matter)
+	    │   │   └── ...
+	    │   │
+	    │   ├──model (saved models) 
+	    │   │   └── xxxxx.hdf5
+	    │   │
+	    │   ├──log (saved log for Tensorboard) 
+	    │   │   └── events.out.tfevents.xxxxxxx (name doesn't matter)
+    
+    
     
 <br/>
 ## Dataset
