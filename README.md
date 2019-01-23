@@ -61,7 +61,7 @@ The code requires a directory with the following structure:
 
 
 
-## Convolutional Network Architecture
+## CNN Model
  ![ ](./images/CNNArc.png  "Architecture of the CNN model according to this work.")
  
  
