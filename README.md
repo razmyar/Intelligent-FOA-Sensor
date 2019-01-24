@@ -75,7 +75,7 @@ Run the model by:
 
 ### Citation
 
-If you find the paper, code, model, or data usefu, please cite our paper:
+If you find the paper, code, model or data useful, please cite our paper:
 
 ```
 @proceeding{doi: 10.1117/12.2305164,
